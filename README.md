@@ -26,5 +26,6 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
   </tr>
 </table>
+Link do site: https://juancarllos13.github.io/Currency-Converter/
 
 [⬆ Voltar ao topo](#Yoga)<br>
